@@ -209,7 +209,7 @@ The notebook will:
 
 ## 👩‍💻 Author
 
-**Divya K**
+**Dharshini A**
 
 ---
 
